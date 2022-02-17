@@ -1,0 +1,189 @@
+// Copyright (C) 2018  Intel Corporation. All rights reserved.
+// Your use of Intel Corporation's design tools, logic functions 
+// and other software and tools, and its AMPP partner logic 
+// functions, and any output files from any of the foregoing 
+// (including device programming or simulation files), and any 
+// associated documentation or information are expressly subject 
+// to the terms and conditions of the Intel Program License 
+// Subscription Agreement, the Intel Quartus Prime License Agreement,
+// the Intel FPGA IP License Agreement, or other applicable license
+// agreement, including, without limitation, that your use is for
+// the sole purpose of programming logic devices manufactured by
+// Intel and sold by Intel or its authorized distributors.  Please
+// refer to the applicable agreement for further details.
+
+// *****************************************************************************
+// This file contains a Verilog test bench with test vectors .The test vectors  
+// are exported from a vector file in the Quartus Waveform Editor and apply to  
+// the top level entity of the current Quartus project .The user can use this   
+// testbench to simulate his design using a third-party simulation tool .       
+// *****************************************************************************
+// Generated on "10/31/2021 01:50:15"
+                                                                                
+// Verilog Test Bench (with test vectors) for design :                          SourDest
+// 
+// Simulation tool : 3rd Party
+// 
+
+`timescale 1 ps/ 1 ps
+module SourDest_vlg_vec_tst();
+// constants                                           
+// general purpose registers
+reg [3:0] a;
+reg [3:0] b;
+reg [3:0] c;
+reg [3:0] in;
+reg [3:0] se;
+// wires                                               
+wire [3:0] ot1;
+wire [3:0] ot2;
+
+// assign statements (if any)                          
+SourDest i1 (
+// port map - connection between master ports and signals/registers   
+	.a(a),
+	.b(b),
+	.c(c),
+	.in(in),
+	.ot1(ot1),
+	.ot2(ot2),
+	.se(se)
+);
+initial 
+begin 
+#1000000 $finish;
+end 
+// a[ 3 ]
+initial
+begin
+	a[3] = 1'b0;
+end 
+// a[ 2 ]
+initial
+begin
+	a[2] = 1'b1;
+	a[2] = #660000 1'b0;
+end 
+// a[ 1 ]
+initial
+begin
+	a[1] = 1'b1;
+	a[1] = #660000 1'b0;
+end 
+// a[ 0 ]
+initial
+begin
+	a[0] = 1'b1;
+	a[0] = #660000 1'b0;
+end 
+// b[ 3 ]
+initial
+begin
+	b[3] = 1'b1;
+	b[3] = #610000 1'b0;
+end 
+// b[ 2 ]
+initial
+begin
+	b[2] = 1'b1;
+	b[2] = #610000 1'b0;
+end 
+// b[ 1 ]
+initial
+begin
+	b[1] = 1'b1;
+	b[1] = #610000 1'b0;
+end 
+// b[ 0 ]
+initial
+begin
+	b[0] = 1'b0;
+end 
+// c[ 3 ]
+initial
+begin
+	c[3] = 1'b0;
+end 
+// c[ 2 ]
+initial
+begin
+	c[2] = 1'b1;
+	c[2] = #620000 1'b0;
+end 
+// c[ 1 ]
+initial
+begin
+	c[1] = 1'b1;
+	c[1] = #620000 1'b0;
+end 
+// c[ 0 ]
+initial
+begin
+	c[0] = 1'b0;
+end 
+// in[ 3 ]
+initial
+begin
+	in[3] = 1'b0;
+	in[3] = #10000 1'b1;
+	in[3] = #610000 1'b0;
+end 
+// in[ 2 ]
+initial
+begin
+	in[2] = 1'b0;
+	in[2] = #10000 1'b1;
+	in[2] = #610000 1'b0;
+end 
+// in[ 1 ]
+initial
+begin
+	in[1] = 1'b0;
+	in[1] = #10000 1'b1;
+	in[1] = #610000 1'b0;
+end 
+// in[ 0 ]
+initial
+begin
+	in[0] = 1'b0;
+	in[0] = #10000 1'b1;
+	in[0] = #610000 1'b0;
+end 
+// se[ 3 ]
+initial
+begin
+	se[3] = 1'b0;
+	se[3] = #30000 1'b1;
+	se[3] = #10000 1'b0;
+	se[3] = #50000 1'b1;
+	se[3] = #10000 1'b0;
+end 
+// se[ 2 ]
+initial
+begin
+	se[2] = 1'b0;
+	se[2] = #30000 1'b1;
+	se[2] = #10000 1'b0;
+	se[2] = #30000 1'b1;
+	se[2] = #10000 1'b0;
+end 
+// se[ 1 ]
+initial
+begin
+	se[1] = 1'b0;
+	se[1] = #50000 1'b1;
+	se[1] = #10000 1'b0;
+	se[1] = #10000 1'b1;
+	se[1] = #10000 1'b0;
+end 
+// se[ 0 ]
+initial
+begin
+	se[0] = 1'b0;
+	se[0] = #50000 1'b1;
+	se[0] = #10000 1'b0;
+	se[0] = #30000 1'b1;
+	se[0] = #10000 1'b0;
+end 
+endmodule
+

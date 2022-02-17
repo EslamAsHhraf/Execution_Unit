@@ -1,0 +1,117 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Aot[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Aot[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Aot[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Aot[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Bot[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Bot[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Bot[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Bot[0]",
+					"strict" : false
+				},
+				{
+					"name" : "cot[3]",
+					"strict" : false
+				},
+				{
+					"name" : "cot[2]",
+					"strict" : false
+				},
+				{
+					"name" : "cot[1]",
+					"strict" : false
+				},
+				{
+					"name" : "cot[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ot[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ot[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ot[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ot[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Input[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
