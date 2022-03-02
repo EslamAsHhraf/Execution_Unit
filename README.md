@@ -1,6 +1,6 @@
 # Execution Unit
 <div align="center">
-<img   width= 350px height =350px src="https://anniehuang926860638.files.wordpress.com/2018/10/alu.gif">
+<img   width= 350px height =350px src="https://user-images.githubusercontent.com/71986226/156400559-7b798b35-b67c-4f05-b371-671a39abe75e.png">
 </div>
 
 <hr style="background-color: #4b4c60"></hr>
