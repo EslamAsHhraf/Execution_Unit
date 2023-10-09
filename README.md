@@ -93,7 +93,7 @@ How many forbidden input commands do execution unit have?
 <hr style="background-color: #4b4c60"></hr>
 
 
-## <img align= center width=50px height=50px src="https://media4.giphy.com/media/WvmddR1RGXyqDg2MmV/giphy.gif?cid=ecf05e471wxmxcpwvskpks2ztbvgu5111xo90mvqgq3ie1lc&rid=giphy.gif&ct=s"> Demo Screenshots <a id ="Screenshots"></a>
+## 📸 Demo Screenshots <a id ="Screenshots"></a>
 
 ![image](https://user-images.githubusercontent.com/71986226/154477737-3ee9f702-c7d7-48b3-a7c9-81a4404fc420.png)
 
@@ -110,7 +110,7 @@ How many forbidden input commands do execution unit have?
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img  align="center" width= 40px height =40px src="https://user-images.githubusercontent.com/71986226/154458911-a4ba9a44-a497-4d7e-a7b9-2340b51eeec4.gif"> Contributors <a id ="Contributors"></a>
+## 👑 Contributors <a id ="Contributors"></a>
 
 <table >
   <tr>
