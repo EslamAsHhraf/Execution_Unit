@@ -1,11 +1,11 @@
-# Execution Unit
+# 🖥️ Execution Unit
 <div align="center">
 <img   width= 350px height =350px src="https://user-images.githubusercontent.com/71986226/156400559-7b798b35-b67c-4f05-b371-671a39abe75e.png">
 </div>
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 About</a>
 - <a href ="#use"> 💻 Get Started</a>
@@ -14,7 +14,7 @@
 <hr style="background-color: #4b4c60"></hr>
 
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> About <a id = "about"></a>
+## 📙 About <a id = "about"></a>
 
 <p>Using the simulation program (Altera Quartus), it is required to make an execution unit that
 able to do the following commands:
@@ -30,7 +30,7 @@ able to do the following commands:
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img  align="center" width= 60px height =50px src="https://c.tenor.com/Vbsu0tIL5DwAAAAi/peach-goma.gif"> How use the application  <a id ="use"></a>
+## 🚀 How use the application  <a id ="use"></a>
 
 <ol>
 <li> Clone the repository
